@@ -1,4 +1,4 @@
 # Recipe Book
 
 ## Recipes
-- Recipes will be listed here
+- [Cheese Omelette](recipes/omelette.md)
